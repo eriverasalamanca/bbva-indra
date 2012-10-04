@@ -1,0 +1,182 @@
+Fecha,Cliente,Ventas
+3/31/90,Adder Inc.,690
+5/26/90,Adder Inc.,999
+7/11/90,Al Akbar News Services,759
+8/14/90,Alf Jequitaine,759
+10/6/90,Asian Pizza,759
+11/14/90,Asian Pizza,859
+12/13/90,Asian Pizza,700
+1/14/91,Asian Pizza,810
+2/10/91,Asian Pizza,810
+3/14/91,Atlantic Marketing,810
+4/20/91,Atlantic Marketing,810
+5/17/91,Atlantic Marketing,"1,000"
+6/21/91,Baltic Resort,859
+7/30/91,Baltic Resort,"1,090"
+8/30/91,Baltic Resort,"1,090"
+9/21/91,Bank Burger,"1,090"
+10/13/91,Barley Foods,930
+10/29/91,Barley Foods,930
+11/24/91,Barley Foods,930
+12/17/91,Barn Motors,930
+1/3/92,Barn Motors,"1,159"
+1/18/92,Basra Hotel,930
+2/14/92,Bearings Bank Ltd.,900
+3/7/92,Bearings Bank Ltd.,900
+3/19/92,Bearings Bank Ltd.,900
+4/3/92,Beta Julia Motors,990
+4/21/92,Captain Cook's Surfing School,"1,030"
+5/2/92,Captain Cook's Surfing School,"1,159"
+5/19/92,Captain Cook's Surfing School,"1,000"
+5/26/92,Captain Cook's Surfing School,810
+6/2/92,Captain Cook's Surfing School,910
+6/6/92,Captain Cook's Surfing School,900
+6/11/92,Captain Cook's Surfing School,900
+6/14/92,Carlsborg,"1,010"
+6/16/92,Carlsborg,"1,210"
+6/19/92,CEN,"1,000"
+6/21/92,CEN,"1,250"
+6/23/92,CEN,"1,250"
+6/26/92,Coque Rouge Holding,"1,250"
+6/29/92,Crédit Bayonnais,"1,219"
+7/2/92,Crédit Bayonnais,"1,299"
+7/5/92,Crédit Bayonnais,"1,270"
+7/8/92,Cyberbank,"1,250"
+7/10/92,Cyberbank,"1,000"
+7/12/92,Cyberbank,"1,000"
+7/15/92,Cyberbank,"1,000"
+7/18/92,Cyberbank,"1,000"
+7/22/92,Cyberbank,"1,000"
+7/27/92,Cyberbank,"1,000"
+7/31/92,Demler-Bunz,"1,290"
+8/3/92,Dew-Light Packard,930
+8/8/92,Dew-Light Packard,"1,230"
+8/13/92,Duoro Trading,"1,179"
+8/17/92,DW,900
+8/20/92,Electratoppolina,"1,270"
+8/25/92,Electro-decibel,"1,200"
+8/29/92,Elektrolumen,930
+9/6/92,Epsilon Airlines,"1,210"
+9/9/92,Ergo Motors,"1,059"
+9/14/92,Ergo Motors,"1,000"
+9/19/92,Ergo Motors,900
+9/22/92,Ergo Motors,"1,079"
+9/25/92,Exotic Spice Trading,999
+9/30/92,Exotic Spice Trading,"1,100"
+10/3/92,Exotic Spice Trading,"1,139"
+10/6/92,Exotic Spice Trading,"1,100"
+10/11/92,Exotic Spice Trading,"1,090"
+10/15/92,Exotic Spice Trading,900
+10/18/92,Firelli Fettuchini,"1,090"
+10/21/92,Fjord Fishing,"1,130"
+10/24/92,Gamble & Hector,"1,290"
+10/29/92,Gamble & Hector,"1,100"
+11/3/92,Gasoline Motors,979
+11/6/92,Gaston HiTech,"1,200"
+11/9/92,Gaston HiTech,"1,290"
+11/13/92,Giorgio Armanski,"1,110"
+11/18/92,Gulf Burger,"1,070"
+11/22/92,HAL 9000 Computers,"1,019"
+11/25/92,Herring Trade,"1,059"
+11/30/92,Immobil,"1,200"
+12/5/92,Infax,900
+12/10/92,Infax,900
+12/14/92,Jupiter International,979
+12/18/92,Jupiter International,900
+12/23/92,Jupiter International,900
+12/26/92,Kilimanjaro Photo Film,900
+12/31/92,Kuala Lumpur Busing Ltd.,900
+1/4/93,Kyo-Yota Motor,"1,250"
+1/7/93,Kyoto KWB,"1,100"
+1/11/93,Lamaton Hotel,"1,319"
+1/15/93,Large Computers Corporation,"1,100"
+1/20/93,LM Didricsson,"1,210"
+1/25/93,LM Didricsson,"1,070"
+1/28/93,LM Didricsson,"1,010"
+2/1/93,Mae East Mountaneering,"1,310"
+2/5/93,Malaysia trading,"1,279"
+2/10/93,Mary Kay,930
+2/14/93,McHill Graw,"1,030"
+2/18/93,Med Trade,990
+2/26/93,Med Trade,"1,010"
+3/4/93,Med Trade,"1,119"
+3/13/93,Med Trade,"1,200"
+3/22/93,Med Trade,"1,000"
+3/30/93,Millisoft,"1,059"
+4/4/93,Millisoft,930
+4/10/93,Mitsibushi Light Industries,"1,270"
+4/18/93,Moe's Laundromat,"1,039"
+4/24/93,Moe's Laundromat,959
+4/29/93,Moe's Laundromat,"1,230"
+5/6/93,Moe's Laundromat,"1,850"
+5/15/93,Moe's Laundromat,"1,850"
+5/22/93,Moe's Laundromat,"1,850"
+5/28/93,Moldavian Vines,"1,850"
+6/4/93,Mombasa Airways,"2,000"
+6/10/93,Monday Motor,"1,400"
+6/19/93,Moon Computers,"1,400"
+6/26/93,Moose Manure AB,"1,400"
+7/4/93,Multibank,"1,400"
+7/9/93,Napa Ultrasonic,"2,210"
+7/16/93,Neumann & Fritz,"1,829"
+7/23/93,New-Kia Computers,"1,940"
+7/28/93,Newzda,"1,800"
+8/5/93,NyBro Medical equipment,"1,800"
+8/11/93,NyBro Medical equipment,"1,800"
+8/16/93,Outdoors Corp,"1,800"
+8/25/93,Pacific Development,"1,500"
+9/3/93,Param SBN,"2,120"
+9/11/93,Pei-Akei Bank,"2,030"
+9/17/93,Pey-Ote,"2,030"
+9/26/93,PW Service,"1,410"
+10/5/93,Red Star Corp,"2,120"
+10/13/93,Rocher & Colate,"1,900"
+10/18/93,Royce & Co. Ltd,"2,120"
+10/22/93,S'clock AktienGesellshaft,"1,640"
+10/26/93,SamYang Electronic Devices,"1,739"
+10/30/93,SamYang Electronic Devices,"1,739"
+11/2/93,Shamrack Café,"1,739"
+11/5/93,Shitoba,"1,739"
+11/10/93,Siberian Trade,"1,450"
+11/13/93,Silverstar,"1,940"
+11/16/93,Sky Dive Equipment,"1,970"
+11/19/93,Sky Dive Equipment,"1,640"
+11/24/93,Sommerthur,"1,640"
+11/27/93,Sputnik Trading,"1,640"
+12/2/93,Standard Centered,"1,640"
+12/5/93,Standard Centered,"1,580"
+12/9/93,Stella Drugs Inc,"2,200"
+12/14/93,Stella Drugs Inc,"1,640"
+12/18/93,Strutz Wolfcat Motors Inc,"2,150"
+12/22/93,Strutz Wolfcat Motors Inc,"1,889"
+12/26/93,Technology Industries,"1,829"
+12/29/93,The Asian Trade House,"1,850"
+1/3/94,The Asian Trade House,"1,610"
+1/7/94,The Asian Trade House,"1,850"
+1/12/94,The Asian Trade House,"2,210"
+1/16/94,The Asian Trade House,"2,009"
+1/19/94,The Asian Trade House,"1,700"
+1/23/94,The Asian Trade House,"1,700"
+1/27/94,The Asian Trade House,"1,580"
+1/30/94,The Asian Trade House,"2,060"
+2/3/94,The Asian Trade House,"1,940"
+2/8/94,The Asian Trade House,"1,640"
+2/13/94,The Asian Trade House,"1,640"
+2/17/94,The Asian Trade House,"1,640"
+2/22/94,The Asian Trade House,"1,829"
+2/27/94,The Asian Trade House,"1,200"
+3/2/94,The Karachi Express,"1,390"
+3/6/94,The Kazach Dairy Center,"2,090"
+3/11/94,The Mongolian Barbecue House,"2,090"
+3/15/94,The Noodle Shop,"2,090"
+3/18/94,The Noodle Shop,"2,090"
+3/22/94,The Noodle Shop,"2,090"
+3/26/94,Unallgemeine Elektrische GmbH,"2,090"
+3/31/94,Unallgemeine Elektrische GmbH,"2,090"
+4/4/94,Unallgemeine Elektrische GmbH,"2,090"
+4/9/94,Veliotti,"2,090"
+4/14/94,Veliotti,"2,090"
+4/17/94,Vienna Music Shop,"2,000"
+4/22/94,Westman Koyak,"2,189"
+4/26/94,"Wolfen, Franken & Stein","1,910"
+4/29/94,"Wolfen, Franken & Stein","2,150"

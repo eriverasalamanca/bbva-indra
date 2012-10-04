@@ -1,0 +1,7 @@
+Revisar el mantenimiento de tablas generales:
+Al añadir nodos hijos genera doble registro.
+Muestra mensaje de error al grabar.
+
+
+INSERT INTO "registro"."mpredio" ("idsigma","ctipdat","vnrodoc","dfecdoc","cmotivo","ctipdoc","mviadis","dnumero","dinteri","dletras","ddepart","destaci","ddeposi","drefere","dmanzan","dnlotes","ccatast","cplanos","ctipmer","dnummer","cdiscat","czoncat","cmzacat","cseccat","cltecat","cundcat","dbloque","dseccio","dunidad","mpoblad","vdirpre","nestado","ccodpre","ntippre","idanexo","cperiod","ccodcuc","vhostnm","vusernm","ddatetm")
+					VALUES ('0000000001','1000000002','00001-2012','2012-09-06 21:13','1000000005','1000000021','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','2012-09-07 07:34')

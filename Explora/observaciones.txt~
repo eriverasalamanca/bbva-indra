@@ -1,0 +1,3 @@
+Revisar el mantenimiento de tablas generales:
+Al añadir nodos hijos genera doble registro.
+Muestra mensaje de error al grabar.

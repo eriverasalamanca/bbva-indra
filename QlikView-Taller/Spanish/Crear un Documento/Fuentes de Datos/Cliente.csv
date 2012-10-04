@@ -1,0 +1,182 @@
+Cliente ID,Cliente,Direccion,Ciudad,CP,Pais
+1001,Adder Inc.,14 George Washington Avenue,San Francisco,,U.S.A.
+1002,Adder Inc.,"9, rue de la Poste",Montreal,,Canada
+1003,Al Akbar News Services,,Kabul,,Afghanistan
+1004,Alf Jequitaine,Rue de Gaulle 13,Paris,75664,France
+1005,Asian Pizza,,Thimpu,,Bhutan
+1006,Asian Pizza,,Chittagong,,Bangladesh
+1007,Asian Pizza,,Rangoon,,Burma
+1008,Asian Pizza,"55, Han Kow St.",Taipei,,Taiwan
+1009,Asian Pizza,,San'a,,Yemen
+1010,Atlantic Marketing,Bahnhof Strasse 3,Berlin,749 33,Germany
+1011,Atlantic Marketing,Westkapelseweg 5,Arnhem,,Netherlands
+1012,Atlantic Marketing,"174, rue Duchamp",Liège,,Belgium
+1013,Baltic Resort,,Tallinn,,Estonia
+1014,Baltic Resort,,Riga,,Latvia
+1015,Baltic Resort,,Vilnius,,Lithuania
+1016,Bank Burger,"14, rue de la Paix",Luxembourg,,Luxembourg
+1017,Barley Foods,2 Atlanta Road,Washington D.C.,3582-2134,U.S.A.
+1018,Barley Foods,2 cl de la Paz,Veracruz,,Mexico
+1019,Barley Foods,,Ottawa,,Canada
+1020,Barn Motors,"Daev per., d29a",Moscow,103045,Russia
+1021,Barn Motors,,Kiev,,Ukraine
+1022,Basra Hotel,,Bagdad,,Iraq
+1023,Bearings Bank Ltd.,"88, Chamberlain Square",Manchester,,Great Britain
+1024,Bearings Bank Ltd.,,Naples,,Italy
+1025,Bearings Bank Ltd.,,Singapore,,Singapore
+1026,Beta Julia Motors,,Milan,,Italy
+1027,Captain Cook's Surfing School,,Monte Carlo,,Monaco
+1028,Captain Cook's Surfing School,,Thessaloniki,,Greece
+1029,Captain Cook's Surfing School,,Ljubljana,,Slovenia
+1030,Captain Cook's Surfing School,,Zagreb,,Croatia
+1031,Captain Cook's Surfing School,,Sarajevo,,Bosnia-Herzegovina
+1032,Captain Cook's Surfing School,,Belgrade,,Serbia and Montenegro
+1033,Captain Cook's Surfing School,,Naples,,Italy
+1034,Carlsborg,"4, rue du Général de Gaulle",Nantes,,France
+1035,Carlsborg,Fiolstraede 5,Copenhagen,,Denmark
+1036,CEN,,Kobe,,Japan
+1037,CEN,5 Washington Road,Washington D.C.,3663-1239,U.S.A.
+1038,CEN,4 Queen's Road,London,,Great Britain
+1039,Coque Rouge Holding,,Ankara,,Turkey
+1040,Crédit Bayonnais,Avenue Kleber 12,Paris,312 37,France
+1041,Crédit Bayonnais,"44, avenue du Vatican",Luxembourg,,Luxembourg
+1042,Crédit Bayonnais,,Monaco,,Monaco
+1043,Cyberbank,,Prag,,Czechia
+1044,Cyberbank,,Bratislava,,Slovakia
+1045,Cyberbank,,Kiev,,Ukraine
+1046,Cyberbank,,Alma-Ata,,Kazakstan
+1047,Cyberbank,,Chisinau,,Moldavia
+1048,Cyberbank,,Liechtenstein,,Liechtenstein
+1049,Cyberbank,"8, rue Tinguely",Fribourg,1700,Switzerland
+1050,Demler-Bunz,Enge Gasse 5,Berlin,742 34,Germany
+1051,Dew-Light Packard,"8, Kerouac Boulevard",San Francisco,,U.S.A.
+1052,Dew-Light Packard,Elbchaussee 396,Hamburg,,Germany
+1053,Duoro Trading,,Lisbon,,Portugal
+1054,DW,,Seoul,,South Korea
+1055,Electratoppolina,"5, avenue du taureau",Brussels,1463,Belgium
+1056,Electro-decibel,"52, boulevard de l'Europe",Brussels,1437,Belgium
+1057,Elektrolumen,Bergmansgatan 7,Malmoe,,Sweden
+1058,Epsilon Airlines,4 Kennedy boulevard,New Orleans,,U.S.A.
+1059,Ergo Motors,Hovsallén 96,Oskarshamn,,Sweden
+1060,Ergo Motors,Stockholmsgatan 42,Helsinki,04 234,Finland
+1061,Ergo Motors,,Brussels,,Belgium
+1062,Ergo Motors,Ter Worm 66,Rotterdam,,Netherlands
+1063,Exotic Spice Trading,,Manila,,Philippines
+1064,Exotic Spice Trading,,Tutong,,Brunei
+1065,Exotic Spice Trading,,Colombo,,Sri Lanka
+1066,Exotic Spice Trading,,Male,,Maldives
+1067,Exotic Spice Trading,,Singapore,,Singapore
+1068,Exotic Spice Trading,,Jakarta,,Indonesia
+1069,Firelli Fettuchini,,Napoli,,Italy
+1070,Fjord Fishing,,Narvik,,Norway
+1071,Gamble & Hector,23 Allen Road,New York,,U.S.A.
+1072,Gamble & Hector,cl. Vasquez de Menchaca,Valladolid,47008,Spain
+1073,Gasoline Motors,,Los Angeles,,U.S.A.
+1074,Gaston HiTech,Avenue de la Revolution,Paris,75117,France
+1075,Gaston HiTech,Rue de l'église,Brussels,1433,Belgium
+1076,Giorgio Armanski,,T'bilisi,,Georgia
+1077,Gulf Burger,,Kuwait,,Kuwait
+1078,HAL 9000 Computers,,New York,,U.S.A.
+1079,Herring Trade,,Reykjavik,,Iceland
+1080,Immobil,,Los Angeles,,U.S.A.
+1081,Infax,,Toronto,,Canada
+1082,Infax,33 President's street,Lincoln,,U.S.A.
+1083,Jupiter International,,New York,,U.S.A.
+1084,Jupiter International,99 South boulevard,Los Angeles,,U.S.A.
+1085,Jupiter International,,Montreal,,Canada
+1086,Kilimanjaro Photo Film,,Kobe,,Japan
+1087,Kuala Lumpur Busing Ltd.,,Kuala Lumpur,,Malaysia
+1088,Kyo-Yota Motor,,Tokyo,,Japan
+1089,Kyoto KWB,,Kyoto,,Japan
+1090,Lamaton Hotel,,Kathmandu,,Nepal
+1091,Large Computers Corporation,,Dallas,,U.S.A.
+1092,LM Didricsson,Bastugatan 5,Stockholm,,Sweden
+1093,LM Didricsson,"10, Via Sforza ",Rome,30 00184,Italy
+1094,LM Didricsson,4 Hampshire Road,London,,Great Britain
+1095,Mae East Mountaneering,,Boston,,U.S.A.
+1096,Malaysia trading,,Kuala Lumpur,,Malaysia
+1097,Mary Kay,,Krakow,,Poland
+1098,McHill Graw,,San Francisco,,U.S.A.
+1099,Med Trade,,Nicosia,,Cyprus
+1100,Med Trade,,Beirut,,Lebanon
+1101,Med Trade,,Damascus,,Syria
+1102,Med Trade,,Jerusalem,,Israel
+1103,Med Trade,,Amman,,Jordan
+1104,Millisoft,,Osaka,,Japan
+1105,Millisoft,42 JFK Road,Washington D.C.,3462-8345,U.S.A.
+1106,Mitsibushi Light Industries,,Tokyo,,Japan
+1107,Moe's Laundromat,,Skopje,,Macedonia
+1108,Moe's Laundromat,,Vatican,,Vatican
+1109,Moe's Laundromat,,Tirana,,Albania
+1110,Moe's Laundromat,,Sofia,,Bulgaria
+1111,Moe's Laundromat,,Valletta,,Malta
+1112,Moe's Laundromat,,Nairobi,,Kenya
+1113,Moldavian Vines,,Bucharest,,Romania
+1114,Mombasa Airways,,Mombasa,,Kenya
+1115,Monday Motor,,Seoul,,South Korea
+1116,Moon Computers,,Los Angeles,,U.S.A.
+1117,Moose Manure AB,,Kiruna,,Sweden
+1118,Multibank,,Copenhagen,,Denmark
+1119,Napa Ultrasonic,,Tokyo,,Japan
+1120,Neumann & Fritz,,Singapore,,Singapore
+1121,New-Kia Computers,,Turku,,Finland
+1122,Newzda,,Tokyo,,Japan
+1123,NyBro Medical equipment,,Nybro,384 66,Sweden
+1124,NyBro Medical equipment,44 Skyline Square,New York,,U.S.A.
+1125,Outdoors Corp,,Ottawa,,Canada
+1126,Pacific Development,,Sydney,,Australia
+1127,Param SBN,,Kuala Lumpur,,Malaysia
+1128,Pei-Akei Bank,,Kyoto,,Japan
+1129,Pey-Ote,,Tokyo,,Japan
+1130,PW Service,,Atlanta,,U.S.A.
+1131,Red Star Corp,,Beijing,,China
+1132,Rocher & Colate,,Zurich,9842,Switzerland
+1133,Royce & Co. Ltd,,London,LD6-3FK,Great Britain
+1134,S'clock AktienGesellshaft,Bahnhofstrasse 2,St. Gallen,,Switzerland
+1135,SamYang Electronic Devices,,Seoul,,South Korea
+1136,SamYang Electronic Devices,Grosse Strasse 93,Berlin,754 23,Germany
+1137,Shamrack Café,,Dublin,,Ireland
+1138,Shitoba,,Tokyo,,Japan
+1139,Siberian Trade,,Minsk,,Belarus
+1140,Silverstar,,Seoul,,South Korea
+1141,Sky Dive Equipment,,Budapest,,Hungary
+1142,Sky Dive Equipment,,Andorra La Vella,,Andorra
+1143,Sommerthur,Bankstrasse 67,Zurich,,Switzerland
+1144,Sputnik Trading,"Kaliningradskiy pr., d31",Moscow,100234,Russia
+1145,Standard Centered,,Nagasaki,,Japan
+1146,Standard Centered,,Edinburgh,,Great Britain
+1147,Stella Drugs Inc,,Los Angeles,,U.S.A.
+1148,Stella Drugs Inc,Storgatan 4,Stockholm,115 55,Sweden
+1149,Strutz Wolfcat Motors Inc,,Los Angeles,,U.S.A.
+1150,Strutz Wolfcat Motors Inc,33 rue Kléber,Strasbourg,67055,France
+1151,Technology Industries,,Kuala Lumpur,,Malaysia
+1152,The Asian Trade House,,Jerevan,,Armenia
+1153,The Asian Trade House,,Khachmas,,Azerbaijan
+1154,The Asian Trade House,,Teheran,,Iran
+1155,The Asian Trade House,,Turkmenbashi,,Turkmenistan
+1156,The Asian Trade House,,Samarqand,,Uzbekistan
+1157,The Asian Trade House,,Bishkek,,Kyrgyzstan
+1158,The Asian Trade House,,Dusjanbe,,Tajikistan
+1159,The Asian Trade House,,Pyonyang,,North Korea
+1160,The Asian Trade House,,Riyadh,,Saudi Arabia
+1161,The Asian Trade House,,Manama,,Bahrain
+1162,The Asian Trade House,,Al Wakrah,,Qatar
+1163,The Asian Trade House,,Abu Dhabi,,United Arab Emirates
+1164,The Asian Trade House,,Muscat,,Oman
+1165,The Asian Trade House,,New Delhi,,India
+1166,The Asian Trade House,,Vientiane,,Laos
+1167,The Karachi Express,,Islamabad,,Pakistan
+1168,The Kazach Dairy Center,,Alma-Ata,,Kazakstan
+1169,The Mongolian Barbecue House,,Ulan Bator,,Mongolia
+1170,The Noodle Shop,,Bankok,,Thailand
+1171,The Noodle Shop,,Hanoi,,Vietnam
+1172,The Noodle Shop,,Phnom-Penh,,Cambodia
+1173,Unallgemeine Elektrische GmbH,"2, rue de l'Université",Paris,75093,France
+1174,Unallgemeine Elektrische GmbH,,Berlin,,Germany
+1175,Unallgemeine Elektrische GmbH,Winhofflaan 23,Amsterdam,,Netherlands
+1176,Veliotti,,Athens,,Greece
+1177,Veliotti,Via Palestro  ,Rome,30 00185,Italy
+1178,Vienna Music Shop,,Vienna,,Austria
+1179,Westman Koyak,,Nagasaki,,Japan
+1180,"Wolfen, Franken & Stein",34 Horror street,San Francisco,,U.S.A.
+1181,"Wolfen, Franken & Stein",,Montreal,,Canada
