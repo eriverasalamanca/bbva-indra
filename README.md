@@ -1,5 +1,6 @@
-#BBVA – Indra | BI Data Integration Project
-##📌 Descripción
+# BBVA – Indra | BI Data Integration Project
+
+## 📌 Descripción
 
 Proyecto de Business Intelligence enfocado en la integración, transformación y modelado de datos financieros para su consumo en herramientas de análisis y reporting.
 
