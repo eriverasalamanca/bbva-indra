@@ -19,13 +19,13 @@ El objetivo del proyecto fue centralizar información operativa proveniente de m
 ## Estructura del Proyecto
 
 /ProgMigracionInicial
-/NroCuenta
-/functionTitania.sql
-/insertTitania.sql
-/mconten.backup
-/mconten.csv
-/mpredio.backup
-/mpropi.backup
+/NroCuenta 
+/functionTitania.sql 
+/insertTitania.sql 
+/mconten.backup 
+/mconten.csv 
+/mpredio.backup 
+/mpropi.backup 
 /observaciones.txt
 
 ---
